@@ -1,4 +1,6 @@
 
 
-## here will be all the apis being used, and the list which will be used in the UI
+import APIs.octopart as octopartApi
 
+def runAllApis(mpnArr):
+    octopartApi.run(mpnArr);
