@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Ph_Icon">
+    <file>Ph_log.PNG</file>
+  </qresource>
+</RCC>
